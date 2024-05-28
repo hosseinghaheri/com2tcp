@@ -1,0 +1,1 @@
+nssm remove com2tcp

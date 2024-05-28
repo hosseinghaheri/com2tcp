@@ -1,0 +1,9 @@
+﻿  com2tcp.cpp
+C:\Users\hgdow\source\repos\com2tcp\com2tcp.cpp(862,19): warning C4129: 'C': unrecognized character escape sequence
+  telnet.cpp
+  utils.cxx
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 182 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  com2tcp.vcxproj -> C:\Users\hgdow\source\repos\com2tcp\x64\Release\com2tcp.exe

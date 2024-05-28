@@ -1,0 +1,1 @@
+nssm install com2tcp com2tcp --baud 9600 \\.\COM1 192.168.1.254 30000

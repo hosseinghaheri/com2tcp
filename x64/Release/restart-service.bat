@@ -1,0 +1,1 @@
+nssm restart com2tcp

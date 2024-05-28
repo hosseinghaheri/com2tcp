@@ -857,6 +857,9 @@ static void Usage(const char *pProgName)
   fprintf(stderr, "\n");
   fprintf(stderr, "Server mode options:\n");
   fprintf(stderr, "    --interface <if>      - use interface <if> for listening.\n");
+
+  fprintf(stderr, "Example:\n");
+  fprintf(stderr, "    com2tcp --baud 9600 \\.\COM1 192.168.1.254 30000\n\n");
   exit(1);
 }
 ///////////////////////////////////////////////////////////////
